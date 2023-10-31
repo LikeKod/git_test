@@ -1,3 +1,13 @@
 body{
     background-color: blanchedalmond;
 }
+
+h1 p{
+    font-size: 25px;
+    margin: 0 auto;
+}
+
+table{
+    background-color: blue;
+    box-shadow: 25%;
+}

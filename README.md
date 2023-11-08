@@ -25,3 +25,17 @@ Observe
 >> In qoute
 
 [link](https://youtube.com)
+
+Footnote[^1] and [^2]
+[^1]: Text 1
+[^2]: Text 2
+
+![img](/index.html)
+
+color | item | size
+:------|:------:|-----:
+red | 1 | 231
+blue | 2 | 451
+
+Termin
+: Tittle lorem 

@@ -49,5 +49,23 @@
     <div class="show">
         <p><em>Далеко-далеко за словесными горами в стране гласных.</em></p>
     </div>
+    <script>
+        let calculator = {
+        read(){
+            a = +prompt('a=')
+            b = +prompt('b=')
+        },
+        sum(){
+            return a+b
+        },
+        mul(){
+            return a*b
+        }
+        };
+
+        calculator.read();
+        alert( calculator.sum() );
+        alert( calculator.mul() );
+    </script>
 </body>
 </html>
